@@ -47,9 +47,12 @@ h1{
     padding: 50px;
     background-color: #b4f7f0;
     font-size: 40px;
-    margin-right: 50%;
-    border-radius: 20%;
+    margin-right: 25%;
+    border-radius: 100px;
     margin-top: 20px;
+    line-height: 50px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h2{
     padding: 20px 0;
@@ -73,9 +76,12 @@ h2{
     padding: 50px;
     background-color: #b4f7f0;
     font-size: 40px;
-    margin-left: 50%;
+    margin-left: 25%;
     margin-top: 30px;
-    border-radius: 20%;
+    border-radius: 100px;
+    line-height: 50px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .lienr{
     color: #000000;
