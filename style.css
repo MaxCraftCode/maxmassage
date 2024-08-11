@@ -12,10 +12,10 @@ h1{
     background-position: center;
     background-size: cover;
     transform: scale(2);
-    transform-origin: left 0;
+    transform-origin: 380px 0;
     position: relative;
     top: 0;
-    left: 0;
+    left: 0px;
 }
 
 .nav a{
