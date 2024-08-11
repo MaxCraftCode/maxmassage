@@ -1,7 +1,7 @@
 body{
     margin: 0;
 }
-.title{
+h1{
     text-align: center;
     margin-top: 50px;
 }
@@ -9,6 +9,9 @@ body{
 .form{
     border: 0px;
     display: inline;
+    background-image: url("img/backr.jpg");
+    background-position: center;
+    background-size: cover;
 }
 
 .nav a{
@@ -30,7 +33,7 @@ body{
     justify-content:space-around;
     border-radius: 40px;
 }
-h1{
+.title{
     padding-bottom: 100px;
     padding-top: 150px;
     font-size: 150px;
@@ -54,6 +57,7 @@ h1{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+    
 h2{
     padding: 20px 0;
     text-align: center;
