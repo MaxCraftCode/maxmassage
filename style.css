@@ -8,12 +8,11 @@ h1{
  
 .form{
     border: 0px;
-    display: block;
     background-image: url("img/backr.jpg");
     background-position: center;
     background-size: cover;
-    transform: scale(2);
-    transform-origin: 0 0;
+    transform: scaley(1.5);
+    transform-origin: center 0;
 }
 
 .nav a{
