@@ -12,7 +12,7 @@ h1{
     background-position: center;
     background-size: cover;
     transform: scale(2);
-    transform-origin: 300px 0;
+    transform-origin: 380px 0;
     position: relative;
     top: 0;
     left: 0px;
@@ -111,9 +111,33 @@ h2{
     background-color: rgb(187, 242, 205);
     font-size: 20px;
 }
-
-
-
+.backr{
+    background-color: #3abe95;
+}
+.table{
+    background-image: url("img/backt.jpg");
+    width: 100%;
+    height: 1200px;
+    padding-top: 20px;
+}
+.table-content{
+    font-size: 60px;
+    color: #2c379e;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-collapse: collapse;
+    border: 6px solid rgb(34, 119, 180);
+    height: 1000px;
+}
+thead{
+    background-op
+}
+td{
+    border: 6px solid rgb(0, 0, 0);
+    padding: 10px;
+}
+.t{
+    background-color: #6b9a75;
+}
 
 
 
